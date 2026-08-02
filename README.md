@@ -41,6 +41,10 @@ The dataset contains order-level sales records with fields such as:
 <img width="1941" height="2745" alt="sales-performance-dashboard" src="https://github.com/user-attachments/assets/6a2ecc43-778d-4ce1-93f2-8b10bd3f3090" />
 
 ## Files
-- Files will be added later in class.
+- `dataset-1-sales-performance-raw.xlsx`: raw dataset used for this project
+- `dataset-1-sales-performance-analysis.xlsx`: Excel workbook with cleaned data, summaries, dashboard, and insights
+- `sales-performance-dashboard.png`: dashboard preview image
+- `data-cleaning-log.md`: business-style cleaning documentation
+- `business-insights.md`: business question, business insights, and recommended action in 3 scopes (sales performance breakdown, monthly trend, and sales rep performance
 
 ## Summary Metrics
