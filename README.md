@@ -34,8 +34,12 @@ The dataset contains order-level sales records with fields such as:
 - GitHub documentation
 
 ## Analysis Process
-
-## Key Insights
+1. Reviewed raw sales order data and data dictionary.
+2. Standardized text fields such as region, channel, status, and category.
+3. Converted date and numeric fields into analysis-ready values.
+4. Reviewed duplicate orders and missing values.
+5. Built summary analysis for revenue, profit, order count, average order value, and margin.
+6. Created a data cleaning log, business insights, and dashboard preview.
 
 ## Dashboard Preview 
 <img width="1941" height="2745" alt="sales-performance-dashboard" src="https://github.com/user-attachments/assets/6a2ecc43-778d-4ce1-93f2-8b10bd3f3090" />
@@ -48,3 +52,10 @@ The dataset contains order-level sales records with fields such as:
 - `business-insights.md`: business question, business insights, and recommended action in 3 scopes (sales performance breakdown, monthly trend, and sales rep performance
 
 ## Summary Metrics
+| Metric | Value |
+| - | - |
+| Clean Revenue | Rp1,301,606,900 |
+| Clean Profit | Rp384,635,900 |
+| Average Order Value | Rp2,362,262.98 |
+| Profit Margin | 29.55% |
+| Clean and Completed Orders | 551 |
