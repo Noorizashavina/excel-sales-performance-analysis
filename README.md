@@ -43,6 +43,21 @@ The dataset contains order-level sales records with fields such as:
 5. Built summary analysis for revenue, profit, order count, average order value, and margin.
 6. Created a data cleaning log, business insights, and dashboard preview.
 
+## Data Cleaning Summary
+## Data Quality Summary
+
+
+| Quality Flag | Rows |
+|---|---|
+| Clean | 612 |
+| Check Quantity | 8 |
+| Check Order Date | 18 |
+| Check Revenue | 10 |
+| Duplicate Order | 5 |
+| Review Status | 72 |
+
+*(See the Data Quality Summary sheet in the workbook for the accompanying pie chart.)*
+
 ## Dashboard Preview 
 ![sales-performance-dashboard](./sales-performance-dashboard.png)
 
