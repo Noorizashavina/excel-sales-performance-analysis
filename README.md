@@ -49,7 +49,7 @@ The dataset contains order-level sales records with fields such as:
 - `dataset-1-sales-performance-analysis.xlsx`: Excel workbook with cleaned data, summaries, dashboard, and insights
 - `sales-performance-dashboard.png`: dashboard preview image
 - `data-cleaning-log.md`: business-style cleaning documentation
-- `business-insights.md`: business question, business insights, and recommended action in 3 scopes (sales performance breakdown, monthly trend, and sales rep performance
+- `business-insights.md`: business question, business insights, and recommended action in 3 scopes (sales performance breakdown, monthly trend, and sales rep performance)
 
 ## Summary Metrics
 | Metric | Value |
