@@ -44,7 +44,9 @@ The dataset contains order-level sales records with fields such as:
 6. Created a data cleaning log, business insights, and dashboard preview.
 
 ## Data Cleaning Summary
+Data cleaning begins by identifying data with issues such as inconsistent text formatting (naming, capitalization, and also abbreviations), missing values, inconsistent date formats, duplicate records, monetary values ​​stored as text with a "Rp" prefix, and datasets containing cancelled or returned orders.
 
+The following is a summary of the data issues identified, along with their counts.
 **Data Quality Summary**
 | Quality Flag | Rows |
 |---|---|
