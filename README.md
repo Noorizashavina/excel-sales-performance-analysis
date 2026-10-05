@@ -44,9 +44,8 @@ The dataset contains order-level sales records with fields such as:
 6. Created a data cleaning log, business insights, and dashboard preview.
 
 ## Data Cleaning Summary
-## Data Quality Summary
 
-
+**Data Quality Summary**
 | Quality Flag | Rows |
 |---|---|
 | Clean | 612 |
