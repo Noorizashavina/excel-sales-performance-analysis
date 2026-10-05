@@ -42,7 +42,7 @@ The dataset contains order-level sales records with fields such as:
 6. Created a data cleaning log, business insights, and dashboard preview.
 
 ## Dashboard Preview 
-<img src="./sales-performance-dashboard.png" alt="sales-performance-dashboard" width="100%" />
+![sales-performance-dashboard](./sales-performance-dashboard.png)
 
 ## Files
 - `dataset-1-sales-performance-raw.xlsx`: raw dataset used for this project
