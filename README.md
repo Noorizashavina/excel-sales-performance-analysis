@@ -58,4 +58,11 @@ The dataset contains order-level sales records with fields such as:
 | Clean Profit | Rp384,635,900 |
 | Average Order Value | Rp2,362,262.98 |
 | Profit Margin | 29.55% |
+| Total Orders | 725 |
+| Clean Orders |
 | Clean and Completed Orders | 551 |
+| Rows to Review | 113|
+
+*Clean and completed orders are count of clean and completed orders for calculation and dashboard*
+*Rows to reviews are count of orders needing review (Check Quantity, Check Order Date, Check Revenue, Duplicate Order, and Review Status)*
+
