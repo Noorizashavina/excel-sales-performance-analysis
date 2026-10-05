@@ -1,7 +1,7 @@
 # Sales Performance Analysis
 
 ## Project Overview
-This project analyzes sales performance dataset using Microsoft Excel to understand revenue drivers, profit patterns, top-performance sales based on category, region, and channel, monthly trend, and sales representative performance. Beside that, this project also documenting data quality issues that should be reviewed before making business decisions.
+This project analyzes sales performance dataset using Microsoft Excel to understand revenue drivers, profit patterns, top-performance sales based on category, region, and channel, monthly trend, and sales representative performance. Besides that, this project also documents data quality issues that should be reviewed before making business decisions.
 
 ## Dataset
 The dataset contains order-level sales records with fields such as:
