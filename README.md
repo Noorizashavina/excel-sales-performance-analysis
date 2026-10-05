@@ -24,6 +24,8 @@ The dataset contains order-level sales records with fields such as:
 
 *The dataset includes intentional data quality issues such as inconsistent text formatting, date formatting differences, missing values, duplicate order IDs, and some numeric values stored as text.*
 
+-> *The time period of this data is from January - June, 2026*
+
 ## Tools Used 
 - Microsoft Excel
 - Excel formulas
@@ -63,6 +65,6 @@ The dataset contains order-level sales records with fields such as:
 | Clean and Completed Orders | 551 |
 | Rows to Review | 113|
 
-*Clean and completed orders are count of clean and completed orders for calculation and dashboard*
-*Rows to reviews are count of orders needing review (Check Quantity, Check Order Date, Check Revenue, Duplicate Order, and Review Status)*
+- *Clean and completed orders are count of clean and completed orders for calculation and dashboard*
+- *Rows to reviews are count of orders needing review (Check Quantity, Check Order Date, Check Revenue, Duplicate Order, and Review Status)*
 
