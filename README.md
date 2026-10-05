@@ -24,7 +24,7 @@ The dataset contains order-level sales records with fields such as:
 
 *The dataset includes intentional data quality issues such as inconsistent text formatting, date formatting differences, missing values, duplicate order IDs, and some numeric values stored as text.*
 
-&rarr *The time period of this data is from January - June, 2026*
+&rarr; **The time period of this data is from January - June, 2026**
 
 ## Tools Used 
 - Microsoft Excel
